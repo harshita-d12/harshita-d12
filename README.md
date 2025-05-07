@@ -15,13 +15,20 @@
 
 ---
 
-### 💻 Technical Skills
+### 💻 Technical Skills & Tech Stack
 
-- **Languages:** Java (DSA)  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
-- **Databases:** SQL, MySQL  
-- **Concepts:** OOP, DBMS, Operating Systems, Cloud Computing  
-- **Tools:** Git, GitHub, VS Code
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -42,32 +49,23 @@
 
 ### 📜 Certifications
 
-| 🏅 Certificate | 🗓️ Issued | 🔗 Link |
+| 🏅 Certificate | 📅 Issued | 🔗 Link |
 |---------------|-----------|--------|
-| 🌩️ **AWS Academy Cloud Foundations** | Apr 2024 | [View](https://www.credly.com/badges/4d885e85-0f77-4f6a-86e6-55cb64f30867/public_url) |
-| 💻 **Alpha DSA – Apna College** | 2024 | [View](https://certificate.codingninjas.com/view/8c0a0c7b9c5618c4) |
-| 🧠 **NPTEL Software Engineering (12 Weeks)** | Oct 2023 | [View](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23CS70S6431121203045563) |
-| 🌐 **Cisco CCNAv7: Intro to Networks** | 2023 | [View](https://www.credly.com/badges/13fdb1c4-3450-4c44-9d2c-ccf3f52c435e/public_url) |
-| 🔐 **Cisco Cybersecurity Essentials** | 2023 | [View](https://www.credly.com/badges/064b1880-3246-4e12-984b-1dd6cf77c117/public_url) |
+| 🌩️ **AWS Academy Cloud Foundations** | Apr 2024 | [View](https://drive.google.com/file/d/1Vp0oZNiaPtdz1p0XbubpTZ8NzmOZ0G3l/view?usp=sharing) |
+| 💻 **ALPHA DSA – Apna College** | 2024 | [View](https://drive.google.com/file/d/1TomRey7wI-iVahoO0_WOO3Z-pyIKF-4X/view?usp=sharing) |
+| 🧠 **NPTEL Software Engineering (12 Weeks)** | Jul–Oct 2023 | [View](https://drive.google.com/file/d/1L2OiypM7-GSIuEGZ2UR911iNOZExulkR/view?usp=sharing) |
+| 🌐 **CCNAv7: Intro to Networks** | 2023 | [View](https://drive.google.com/drive/folders/1gL_NQOEk17oDKxztZnSeGoPPs-9awhxN?usp=drive_link) |
+| 🔐 **Cybersecurity Essentials – Cisco** | 2023 | [View](https://drive.google.com/file/d/15o37qffFT9v7xA7wQdin0vhJ45x2g3e_/view?usp=sharing) |
 
 ---
 
-### 🌐 Let's Connect
+### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshitadutta/)
-- 💻 [GitHub](https://github.com/harshita-d12)
-- 🧠 [LeetCode](https://leetcode.com/u/harshita-d12/)
-- 👩‍💻 [HackerRank](https://www.hackerrank.com/profile/harshita_2193021)
-- 📧 harshitadutta1272@gmail.com
+- 📧 Email: [harshitadutta1272@gmail.com](mailto:harshitadutta1272@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshitadutta/)  
+- 💻 [GitHub](https://github.com/harshita-d12)  
+- 🔎 [LeetCode](https://leetcode.com/u/harshita-d12/) | [HackerRank](https://www.hackerrank.com/profile/harshita_2193021)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshita-d12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-d12&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshita-d12&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
