@@ -1,24 +1,22 @@
-<h1 align="center">✨ Hey there, I'm Harshita Dutta 💖</h1>
-<h3 align="center">💻 Java Lover | 🌸 Web Developer | 🌈 DSA Explorer</h3>
+<h1 align="center">✨ Hey there, I'm Harshita Dutta </h1>
+
+<h3 align="center">An aspiring Software Developer | Java | DSA | Web Development </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=25&pause=1000&center=true&vCenter=true&width=450&lines=Welcome+to+my+little+tech+space!;I+love+Java+%7C+Web+Dev+%7C+DSA+Challenges!+🌼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Java+%7C+Web+Dev+%7C+DSA+Explorer;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌷 About Me
+### 🌸 About Me
 
-- 🎓 B.Tech (CSE) student at **Manipal University Jaipur**
-- 🌸 Coding makes me happy! I build projects using **Java**, **React**, **HTML/CSS**, and **JavaScript**
-- 💪 I practice DSA regularly on  
-  [🌟 LeetCode](https://leetcode.com/u/harshita-d12/) | [🌟 HackerRank](https://www.hackerrank.com/profile/harshita_2193021) | [🌟 GeeksforGeeks](https://auth.geeksforgeeks.org/user/harshitadutta1272/practice/)
-- ☁️ Exploring **Cloud Computing** & **System Design**
-- 💌 Reach out at **harshitadutta1272@gmail.com**
+- 🎓 Final-year B.Tech student at **Manipal University Jaipur**
+- 💻 I enjoy solving problems using **Java** 
+- 📬 Reach me at **harshitadutta1272@gmail.com**
 
 ---
 
-### 🧁 My Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,bootstrap,mysql,git,github,vscode" />
@@ -26,37 +24,55 @@
 
 ---
 
-### 📚 My Certifications
+### 🧠 Certifications
 
-💫 [**AWS Academy Cloud Foundation**](https://drive.google.com/file/d/1Vp0oZNiaPtdz1p0XbubpTZ8NzmOZ0G3l/view?usp=sharing)  
-💫 [**Alpha DSA – Apna College**](https://drive.google.com/file/d/1TomRey7wI-iVahoO0_WOO3Z-pyIKF-4X/view?usp=sharing)  
-💫 [**NPTEL – Software Engineering (12 Weeks)**](https://drive.google.com/file/d/1L2OiypM7-GSIuEGZ2UR911iNOZExulkR/view?usp=sharing)  
-💫 [**Cisco – CCNAv7: Intro to Networks**](https://drive.google.com/drive/folders/1gL_NQOEk17oDKxztZnSeGoPPs-9awhxN?usp=drive_link)  
-💫 [**Cisco – Cybersecurity Essentials**](https://drive.google.com/file/d/15o37qffFT9v7xA7wQdin0vhJ45x2g3e_/view?usp=sharing)  
+- 📜 [**AWS Academy Cloud Foundation (Apr 2024)**](https://drive.google.com/file/d/1Vp0oZNiaPtdz1p0XbubpTZ8NzmOZ0G3l/view?usp=sharing)
+- 📜 [**Alpha DSA - Apna College**](https://drive.google.com/file/d/1TomRey7wI-iVahoO0_WOO3Z-pyIKF-4X/view?usp=sharing)
+- 📜 [**NPTEL Software Engineering (12 Weeks)**](https://drive.google.com/file/d/1L2OiypM7-GSIuEGZ2UR911iNOZExulkR/view?usp=sharing)
+- 📜 [**Cisco CCNAv7: Intro to Networks**](https://drive.google.com/drive/folders/1gL_NQOEk17oDKxztZnSeGoPPs-9awhxN?usp=drive_link)
+- 📜 [**Cisco Cybersecurity Essentials**](https://drive.google.com/file/d/15o37qffFT9v7xA7wQdin0vhJ45x2g3e_/view?usp=sharing)
 
 ---
 
-### ✨ GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshita-d12&show_icons=true&theme=rose_pine&border_radius=12&icon_color=ffb6c1&title_color=ff69b4" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-d12&theme=rose_pine&ring=ff69b4&currStreakLabel=ff69b4" width="48%"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=harshita-d12&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=harshita-d12&theme=tokyonight" />
 </p>
 
 ---
 
-### 💖 Fun Extras
+### 📌 Most Used Languages
 
-- 🌼 I love reading tech blogs and watching coding playlists (shoutout to [Aditya Verma](https://www.linkedin.com/in/adityaverma1999/)!).
-- ✨ I’m building a [Java DSA Repo](https://github.com/harshita-d12/Sliding-Window-AdityaVerma-Java-Code) for Sliding Window problems from YouTube.
-- 🌈 Aiming to make tech more beautiful and inclusive!
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-d12&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📂 Featured Repositories
+
+- 🔍 [Sliding Window Java Solutions (Aditya Verma Playlist)](https://github.com/harshita-d12/Sliding-Window-AdityaVerma-Java-Code)
+- 🎬 [Cinemania - Movie Search App using TMDb API](https://github.com/harshita-d12/Cinemania)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshitadutta/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harshitadutta1272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/harshita-d12/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/harshitadutta1272/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/harshita_2193021"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YlSR3nXUHr5eZBL6n3/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </p>
 
-<p align="center">
-  Made with 💗 by <b>Harshita Dutta</b>
-</p>
+---
+
